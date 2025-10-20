@@ -1,0 +1,4 @@
+displayName = Kele expansion with calamity materials(not offical)
+author = CRO0820
+version = 1.0.0.1
+modReferences = CalamityMod@2.0.5,ExpansionKele@1.2.0

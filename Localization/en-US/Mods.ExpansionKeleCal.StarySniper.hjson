@@ -1,0 +1,125 @@
+GaSniperCalX: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-F
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-X
+}
+
+GaSniperCalF: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-E
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-F
+}
+
+GaSniperCalE: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-D
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-E
+}
+
+GaSniperCalD: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-CIX
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-D
+}
+
+GaSniperCalCIX: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-CIII
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-CIX
+}
+
+GaSniperCalCIII: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-CI
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-CIII
+}
+
+GaSniperCalCI: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-B
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-C I
+}
+
+GaSniperCalB: {
+	Tooltip:
+		'''
+		The upgrade of PhantomStarySniperRifle-A
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-B
+}
+
+GaSniperCalA: {
+	Tooltip:
+		'''
+		The upgrade of StarySniperRifle-J, name override to PhantomStarySniperRifle-A
+		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
+		focus value give extra damage and give recommendation when it go to limitation
+		can open laser to assist aiming(in the config)
+		can change bullet(musket ball) into high-velocity bullet
+		right click to shoot sharky bullet more slowly and deals more damage
+		in calamitymod ,sharky bullet can deals Marked for Death debuff
+		'''
+	DisplayName: PhantomStarySniperRifle-A
+}

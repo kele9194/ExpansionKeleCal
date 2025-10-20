@@ -1,0 +1,17 @@
+ExpansionKeleCalConfig: {
+	LaserAlwaysOn: {
+		// Label: Laser Always On
+		// Tooltip: If enabled, lasers of PhantomStarySniperRifle will always be displayed
+	}
+
+	// DisplayName: ExpansionKeleCal Config
+
+	detailedTooltip: {
+		// Label: Enable Detailed Tooltips(For developers,Simplified Chinese)
+		/* Tooltip:
+			'''
+			If enabled, shows detailed tooltips for items and accessories(just for developer to debug so only simplified Chinese)
+			make it off will not obstacle your game  
+			''' */
+	}
+}

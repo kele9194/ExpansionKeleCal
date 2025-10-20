@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>  
+		<OutputType>Library</OutputType>  
+		<RootNamespace>ExpansionKeleCal</RootNamespace>  
+		<AssemblyName>ExpansionKeleCal</AssemblyName>  
+	</PropertyGroup>  
+
+
+	<!-- References -->
+	<ItemGroup>  
+		<Reference Include="tModLoader" />  
+		
+		<Reference Include="ExpansionKele" />  
+		
+		<Reference Include="CalamityMod" />  
+		
+		<Reference Include="FNA" />
+    <Reference Include="ReLogic" />
+	</ItemGroup>  
+
+
+</Project>

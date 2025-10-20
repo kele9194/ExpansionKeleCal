@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpansionKeleCal", "ExpansionKeleCal.csproj", "{241450AC-38EB-449E-9840-ABA1D0798218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241450AC-38EB-449E-9840-ABA1D0798218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241450AC-38EB-449E-9840-ABA1D0798218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241450AC-38EB-449E-9840-ABA1D0798218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241450AC-38EB-449E-9840-ABA1D0798218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535E62D3-3243-4ACC-AE87-4D79992083D6}
+	EndGlobalSection
+EndGlobal

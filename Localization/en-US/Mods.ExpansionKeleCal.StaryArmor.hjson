@@ -1,0 +1,221 @@
+StarLeggingsCalX: {
+	Tooltip:
+		'''
+		60% increased speed
+		22% increased melee crit chance and 41% increased melee speed
+		200 increased max mana and 33% reduced mana cost
+		12% increased ranged crit chance and 25% chance to save ammo
+		'''
+	DisplayName: PhantomStar Leggings X
+}
+
+StarLeggingsCalE: {
+	Tooltip:
+		'''
+		47% increased speed
+		17% increased melee crit chance and 35% increased melee speed
+		180 increased max mana and 22% reduced mana cost
+		9% increased ranged crit chance and 25% chance to save ammo
+		'''
+	DisplayName: PhantomStar Leggings E
+}
+
+StarLeggingsCalD: {
+	Tooltip:
+		'''
+		44% increased speed
+		16% increased melee crit chance and 32% increased melee speed
+		160 increased max mana and 20% reduced mana cost
+		8% increased ranged crit chance and 25% chance to save ammo
+		'''
+	DisplayName: PhantomStar Leggings D
+}
+
+StarLeggingsCalC: {
+	Tooltip:
+		'''
+		41% increased speed
+		15% increased melee crit chance and 29% increased melee speed
+		140 increased max mana and 18% reduced mana cost
+		8% increased ranged crit chance and 25% chance to save ammo
+		'''
+	DisplayName: PhantomStar Leggings C
+}
+
+StarLeggingsCalB: {
+	Tooltip:
+		'''
+		38% increased speed
+		14% increased melee crit chance and 25% increased melee speed
+		120 increased max mana and 16% reduced mana cost
+		7% increased ranged crit chance and 25% chance to save ammo
+		'''
+	DisplayName: PhantomStar Leggings B
+}
+
+StarLeggingsCalA: {
+	Tooltip:
+		'''
+		35% increased speed
+		13% increased melee crit chance and 23% increased melee speed
+		100 increased max mana and 15% reduced mana cost
+		7% increased ranged crit chance and 25% chance to save ammo
+		'''
+	DisplayName: PhantomStar Leggings A
+}
+
+StarHelmetCalX: {
+	Tooltip:
+		'''
+		75% increased damage
+		+6 max sentry number
+		'''
+	DisplayName: PhantomStar Helmet X
+	SetBonus:
+		'''
+		The lower the health, the higher the damage. 
+		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
+		With effect of healing and high damage increased.
+		{0}% increases the thief crit chance and {1} increased stealth value.
+		'''
+}
+
+StarHelmetCalE: {
+	Tooltip:
+		'''
+		62% increased damage
+		+4 max sentry number
+		'''
+	DisplayName: PhantomStar Helmet E
+	SetBonus:
+		'''
+		The lower the health, the higher the damage. 
+		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
+		With effect of healing and high damage increased.
+		{0}% increases the thief crit chance and {1} increased stealth value.
+		'''
+}
+
+StarHelmetCalD: {
+	Tooltip:
+		'''
+		56% increased damage
+		+3 max sentry number
+		'''
+	DisplayName: PhantomStar Helmet D
+	SetBonus:
+		'''
+		The lower the health, the higher the damage. 
+		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
+		With effect of healing and high damage increased.
+		{0}% increases the thief crit chance and {1} increased stealth value.
+		'''
+}
+
+StarHelmetCalC: {
+	Tooltip:
+		'''
+		50% increased damage
+		+3 max sentry number
+		'''
+	DisplayName: PhantomStar Helmet C
+	SetBonus:
+		'''
+		The lower the health, the higher the damage. 
+		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
+		With effect of healing and high damage increased.
+		{0}% increases the thief crit chance and {1} increased stealth value.
+		'''
+}
+
+StarHelmetCalB: {
+	Tooltip:
+		'''
+		44% increased damage
+		+2 max sentry number
+		'''
+	DisplayName: PhantomStar Helmet B
+	SetBonus:
+		'''
+		The lower the health, the higher the damage. 
+		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
+		With effect of healing and high damage increased.
+		{0}% increases the thief crit chance and {1} increased stealth value.
+		'''
+}
+
+StarHelmetCalA: {
+	Tooltip:
+		'''
+		40% increased damage
+		+2 max sentry number
+		'''
+	DisplayName: PhantomStar Helmet A
+	SetBonus:
+		'''
+		The lower the health, the higher the damage. 
+		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
+		With effect of healing and high damage increased.
+		{0}% increases the thief crit chance and {1} increased stealth value.
+		'''
+}
+
+StarBreastplateCalX: {
+	Tooltip:
+		'''
+		30% increased crit strike chance
+		+12 max minion number
+		immune on fire and knockback
+		'''
+	DisplayName: PhantomStar BreastPlate X
+}
+
+StarBreastplateCalE: {
+	Tooltip:
+		'''
+		25% increased crit strike chance
+		+9 max minion number
+		immune on fire and knockback
+		'''
+	DisplayName: PhantomStar BreastPlate E
+}
+
+StarBreastplateCalD: {
+	Tooltip:
+		'''
+		24% increased crit strike chance
+		+8 max minion number
+		immune on fire and knockback
+		'''
+	DisplayName: PhantomStar BreastPlate D
+}
+
+StarBreastplateCalC: {
+	Tooltip:
+		'''
+		23% increased crit strike chance
+		+7 max minion number
+		immune on fire and knockback
+		'''
+	DisplayName: PhantomStar BreastPlate C
+}
+
+StarBreastplateCalB: {
+	Tooltip:
+		'''
+		22% increased crit strike chance
+		+6 max minion number
+		immune on fire and knockback
+		'''
+	DisplayName: PhantomStar BreastPlate B
+}
+
+StarBreastplateCalA: {
+	Tooltip:
+		'''
+		20% increased crit strike chance
+		+5 max minion number
+		immune on fire and knockback
+		'''
+	DisplayName: PhantomStar BreastPlate A
+}

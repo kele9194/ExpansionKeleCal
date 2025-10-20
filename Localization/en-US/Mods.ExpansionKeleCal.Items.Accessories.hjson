@@ -1,0 +1,11 @@
+SunAmulet: {
+	Tooltip:
+		'''
+		30 extra max life
+		Based on the the distance to the closed NPC,
+		provide extra defense ,life regenability and special endurance
+		max to 24 defense ,100% extra life regen speed and 12% special endurance
+		and max to 25% melee damage ,true melee damage and melee speed
+		'''
+	DisplayName: Sun Amulet
+}

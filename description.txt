@@ -1,0 +1,40 @@
+Requires both Kele Expansion and Calamity Mod to use this mod.
+This mod is developed for entertainment purposes only, and the developer is just me, still in the process of improvement.
+This mod is a Calamity expansion version of Kele Expansion, designed for playing with Kele Expansion and Calamity mainly as post-Moon Lord item expansion.
+Currently, this mod contains the following series:
+Phantom Stary Sword series and Phantom Stary Sniper Rifle series, totaling 20 Phantom Stary series weapons;
+Phantom Stary Armor series with 10 armor sets, plus one accessory (that's right, there's only this many for now, more Calamity-related items will be added in future updates).
+(Art assets are reused due to lack of artistic skills)
+In addition, this mod does not rewrite any existing boss AI, so it can be added after world creation.
+If you have any other ideas or suggestions, feel free to leave a comment.
+Recent Updates
+v0.9.3
+Minor adjustments
+v0.9.3.1
+Minor adjustments
+v0.9.3.3
+Fixed dependency properties
+v0.9.3.4
+Weakened the additional max life percentage damage bonus from true melee attacks of the Phantom Stary Sword series
+v1.0.0.1
+Restructured the mod and initially completed English and Chinese localization
+需同时要Kele expansion和Calamity mod才能使用该mod
+这个模组开发仅为娱乐，开发者仅为本人，并且仍然在完善中，
+此mod是Kele expansion的灾厄拓展版本,适用于游玩Kele expansion和Calamity时主要作为灾厄月后时期物品拓展
+目前该模组拥有以下系列：
+幻星元剑系列，幻星元狙击步枪系列共20把幻星元系列武器；
+幻星元套装系列共10套套装，外加一个饰品（没错，目前只有这么多，后续会更新一些与Calamity强相关的物品）
+（不擅长美术所以贴图会重复）
+此外该模组无现有bossAI重写，因此允许在创建世界后加入。
+如果有其他任何想法或建议欢迎留言。
+最近更新
+v0.9.3
+微调
+v0.9.3.1
+微调
+v0.9.3.3
+修复依赖项属性
+v0.9.3.4
+削弱了幻星元剑系列真近战造成的额外最大生命值百分比加成的伤害
+v1.0.0.1
+重整该mod,初步完成完成中英文本地化
