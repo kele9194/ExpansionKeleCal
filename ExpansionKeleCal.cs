@@ -21,6 +21,7 @@ namespace ExpansionKeleCal
         public static Mod expansionkele;
         
         public static ModKeybind StarKeyBindCal;
+        public static DamageClass RogueDamageClassCal ;   
         
 
         public override void Load()
@@ -28,6 +29,7 @@ namespace ExpansionKeleCal
             if (ModLoader.HasMod("CalamityMod"))
             {
                 calamity = ModLoader.GetMod("CalamityMod");
+                RogueDamageClassCal=calamity.Find<DamageClass>("RogueDamageClass");  
             }
             else
             {
@@ -43,19 +45,6 @@ namespace ExpansionKeleCal
                 expansionkele = null;
             }
 
-
-            // 如果任一依赖模组不存在或未启用，则禁用当前模组
-            if ((expansionkele == null)||(calamity == null))
-            {
-                this.DisableMod();
-                Logger.Info("ExpansionKeleCal 已被禁用，因为 ExpansionKele 或 Calamity 模组未找到或未启用。");
-            }
-            else
-            {
-                // 调用修改物品的方法
-                //ModifyExpansionKeleItems();
-            }
-
             StarKeyBindCal = KeybindLoader.RegisterKeybind(this, "StarArmorSetBonus(Cal)", Keys.F);
         }
             public static SoundStyle SniperSound = new SoundStyle("ExpansionKeleCal/Content/Audio/SniperSound")
@@ -64,27 +53,6 @@ namespace ExpansionKeleCal
             PitchVariance = 0.2f,
             MaxInstances = 3,
         };
-
-        public static class StarySwordCalHelper
-        {
-            public static ModItem GetStarySwordAbs()
-            {
-                if (expansionkele != null)
-                {
-                    return expansionkele.Find<ModItem>("StarySwordAbs");
-                }
-                return null;
-            }
-        }
-        
-
-        
-
-        private void DisableMod()
-        {
-            // 这里可以添加一些清理工作，如果有必要的话
-            this.Unload();
-        }
 
         /*private void ModifyExpansionKeleItems()
 {

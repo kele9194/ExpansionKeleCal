@@ -22,6 +22,22 @@
 		<Reference Include="FNA" />
     <Reference Include="ReLogic" />
 	</ItemGroup>  
+	<ItemGroup>
+		<Reference Include="CalamityMod">
+			<HintPath>..\..\ModReader\CalamityMod\CalamityMod.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<ItemGroup>
+  		<Publicize Include="CalamityMod" IncludeVirtualMembers="false" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="ExpansionKele">
+			<HintPath>..\..\ModReader\ExpansionKele\ExpansionKele.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<ItemGroup>
+  		<Publicize Include="ExpansionKele" IncludeVirtualMembers="false" />
+	</ItemGroup>
 
 
 </Project>
