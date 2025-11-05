@@ -1,4 +1,19 @@
 FullMoonKunai: {
 	DisplayName: Full Moon Kunai
-	Tooltip: ""
+	Tooltip:
+		'''
+		shoot a kunai when not stealth strike
+		stealth strike :shoot a stronger kunai ,when ememies hit ,it can split into six tracking kunais 
+		'''
+}
+
+Rogue: {
+	Basketball: {
+		DisplayName: Basketball
+		Tooltip: '''
+		Basketballs rebounds cause more damage
+		The stealth attack basketball exists for a longer time and has unlimited penetration
+		and the rebound damage is higher
+		'''
+	}
 }

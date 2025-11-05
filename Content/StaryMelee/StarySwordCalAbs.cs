@@ -5,11 +5,13 @@ using Microsoft.Xna.Framework;
 using Terraria.DataStructures;
 using System;
 using System.Collections.Generic;
+using ExpansionKeleCal.Content.Custom;
 
 namespace ExpansionKeleCal.Content.StaryMelee
 {
     public abstract class StarySwordCalAbs : ModItem
     {
+        public override string Texture => this.GetRelativeTexturePath("./StarySwordSuper");
         // 基础属性
         public virtual string setNameOverride { get; }
         public virtual int BaseDamage { get; }

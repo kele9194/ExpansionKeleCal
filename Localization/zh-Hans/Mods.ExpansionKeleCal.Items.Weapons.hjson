@@ -1,4 +1,18 @@
 FullMoonKunai: {
-	// DisplayName: Full Moon Kunai
-	// Tooltip: ""
+	DisplayName: 望月苦无
+	Tooltip:
+		'''
+		非潜伏攻击：发射一个苦无
+		潜伏攻击：发射一个更强力的苦无，当苦无命中敌人会分裂出六个追踪的苦无分身。
+		'''
+}
+
+Rogue: {
+	Basketball: {
+		DisplayName: 篮球
+		Tooltip: '''
+		篮球反弹造成更多伤害
+		潜伏攻击篮球存在更长时间并且无限穿透，反弹伤害更高
+		'''
+	}
 }
