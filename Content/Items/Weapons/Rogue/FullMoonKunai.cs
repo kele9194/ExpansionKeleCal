@@ -28,7 +28,7 @@ namespace ExpansionKeleCal.Content.Items.Weapons.Rogue
         public override void SetDefaults()
         {
             //Item.SetNameOverride("望月苦无");
-            Item.damage = 90;         // 基础伤害值
+            Item.damage = 92;         // 基础伤害值
             Item.DamageType = ExpansionKeleCal.RogueDamageClassCal;              // 投掷伤害类型
             Item.width = 18;                                     // 物品宽高
             Item.height = 32;
@@ -43,12 +43,12 @@ namespace ExpansionKeleCal.Content.Items.Weapons.Rogue
             Item.UseSound = SoundID.Item1;                       // 使用音效
             Item.autoReuse = true;                               // 自动重用
             Item.shoot = ModContent.ProjectileType<FullMoonKunaiProjectile>(); // 发射的弹幕类型
-            Item.shootSpeed = 12f;                               // 弹幕初始速度
+            Item.shootSpeed = 25f;                               // 弹幕初始速度
             Item.maxStack = 9999;                                 // 最大堆叠数
             Item.consumable = true;                              // 可消耗
         }
-        public override float StealthDamageMultiplier => 1.4f;
-        public override float StealthVelocityMultiplier => 1.5f;
+        public override float StealthDamageMultiplier => 1.8f;
+        public override float StealthVelocityMultiplier => 2f;
         public override float StealthKnockbackMultiplier => 1f;
         public override bool AdditionalStealthCheck() => false;
 
@@ -99,7 +99,7 @@ namespace ExpansionKeleCal.Content.Items.Weapons.Rogue
         {
         }
 
-        public override bool ConsumeItem(Player player) => Main.rand.NextFloat() < player.Calamity().rogueAmmoCost;
+        public override bool ConsumeItem(Player player) => true;
 
         /// <summary>
         /// 注册合成配方：需要8个【满月锭】，在铁砧上合成。

@@ -1,221 +1,221 @@
 StarLeggingsCalX: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		60% increased speed
-		22% increased melee crit chance and 41% increased melee speed
-		200 increased max mana and 33% reduced mana cost
-		12% increased ranged crit chance and 25% chance to save ammo
-		''' */
-	// DisplayName: PhantomStar Leggings X
+		移动速度提高60%
+		近战暴击率提高22%，近战攻速提高41%
+		最大法力值增加200，法力消耗降低33%
+		远程暴击率提高12%，25%概率节省弹药
+		'''
+	DisplayName: 幻星元护腿 X
 }
 
 StarLeggingsCalE: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		47% increased speed
-		17% increased melee crit chance and 35% increased melee speed
-		180 increased max mana and 22% reduced mana cost
-		9% increased ranged crit chance and 25% chance to save ammo
-		''' */
-	// DisplayName: PhantomStar Leggings E
+		移动速度提高47%
+		近战暴击率提高17%，近战攻速提高35%
+		最大法力值增加180，法力消耗降低22%
+		远程暴击率提高9%，25%概率节省弹药
+		'''
+	DisplayName: 幻星元护腿 E
 }
 
 StarLeggingsCalD: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		44% increased speed
-		16% increased melee crit chance and 32% increased melee speed
-		160 increased max mana and 20% reduced mana cost
-		8% increased ranged crit chance and 25% chance to save ammo
-		''' */
-	// DisplayName: PhantomStar Leggings D
+		移动速度提高44%
+		近战暴击率提高16%，近战攻速提高32%
+		最大法力值增加160，法力消耗降低20%
+		远程暴击率提高8%，25%概率节省弹药
+		'''
+	DisplayName: 幻星元护腿 D
 }
 
 StarLeggingsCalC: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		41% increased speed
-		15% increased melee crit chance and 29% increased melee speed
-		140 increased max mana and 18% reduced mana cost
-		8% increased ranged crit chance and 25% chance to save ammo
-		''' */
-	// DisplayName: PhantomStar Leggings C
+		移动速度提高41%
+		近战暴击率提高15%，近战攻速提高29%
+		最大法力值增加140，法力消耗降低18%
+		远程暴击率提高8%，25%概率节省弹药
+		'''
+	DisplayName: 幻星元护腿 C
 }
 
 StarLeggingsCalB: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		38% increased speed
-		14% increased melee crit chance and 25% increased melee speed
-		120 increased max mana and 16% reduced mana cost
-		7% increased ranged crit chance and 25% chance to save ammo
-		''' */
-	// DisplayName: PhantomStar Leggings B
+		移动速度提高38%
+		近战暴击率提高14%，近战攻速提高25%
+		最大法力值增加120，法力消耗降低16%
+		远程暴击率提高7%，25%概率节省弹药
+		'''
+	DisplayName: 幻星元护腿 B
 }
 
 StarLeggingsCalA: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		35% increased speed
-		13% increased melee crit chance and 23% increased melee speed
-		100 increased max mana and 15% reduced mana cost
-		7% increased ranged crit chance and 25% chance to save ammo
-		''' */
-	// DisplayName: PhantomStar Leggings A
+		移动速度提高35%
+		近战暴击率提高13%，近战攻速提高23%
+		最大法力值增加100，法力消耗降低15%
+		远程暴击率提高7%，25%概率节省弹药
+		'''
+	DisplayName: 幻星元护腿 A
 }
 
 StarHelmetCalX: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		75% increased damage
-		+6 max sentry number
-		''' */
-	// DisplayName: PhantomStar Helmet X
-	/* SetBonus:
+		全伤害提高75%
+		+6 最大哨兵数量
 		'''
-		The lower the health, the higher the damage. 
-		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
-		With effect of healing and high damage increased.
-		{0}% increases the thief crit chance and {1} increased stealth value.
-		''' */
+	DisplayName: 幻星元头盔 X
+	SetBonus:
+		'''
+		生命值越低，造成的伤害越高。
+		按下保持套装奖励键时，将禁用生命恢复，
+		获得治疗效果和高额伤害加成。
+		盗贼暴击率提高{0}%，隐匿值提高{1}。
+		'''
 }
 
 StarHelmetCalE: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		62% increased damage
-		+4 max sentry number
-		''' */
-	// DisplayName: PhantomStar Helmet E
-	/* SetBonus:
+		全伤害提高62%
+		+4 最大哨兵数量
 		'''
-		The lower the health, the higher the damage. 
-		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
-		With effect of healing and high damage increased.
-		{0}% increases the thief crit chance and {1} increased stealth value.
-		''' */
+	DisplayName: 幻星元头盔 E
+	SetBonus:
+		'''
+		生命值越低，造成的伤害越高。
+		按下保持套装奖励键时，将禁用生命恢复，
+		获得治疗效果和高额伤害加成。
+		盗贼暴击率提高{0}%，隐匿值提高{1}。
+		'''
 }
 
 StarHelmetCalD: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		56% increased damage
-		+3 max sentry number
-		''' */
-	// DisplayName: PhantomStar Helmet D
-	/* SetBonus:
+		全伤害提高56%
+		+3 最大哨兵数量
 		'''
-		The lower the health, the higher the damage. 
-		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
-		With effect of healing and high damage increased.
-		{0}% increases the thief crit chance and {1} increased stealth value.
-		''' */
+	DisplayName: 幻星元头盔 D
+	SetBonus:
+		'''
+		生命值越低，造成的伤害越高。
+		按下保持套装奖励键时，将禁用生命恢复，
+		获得治疗效果和高额伤害加成。
+		盗贼暴击率提高{0}%，隐匿值提高{1}。
+		'''
 }
 
 StarHelmetCalC: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		50% increased damage
-		+3 max sentry number
-		''' */
-	// DisplayName: PhantomStar Helmet C
-	/* SetBonus:
+		全伤害提高50%
+		+3 最大哨兵数量
 		'''
-		The lower the health, the higher the damage. 
-		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
-		With effect of healing and high damage increased.
-		{0}% increases the thief crit chance and {1} increased stealth value.
-		''' */
+	DisplayName: 幻星元头盔 C
+	SetBonus:
+		'''
+		生命值越低，造成的伤害越高。
+		按下保持套装奖励键时，将禁用生命恢复，
+		获得治疗效果和高额伤害加成。
+		盗贼暴击率提高{0}%，隐匿值提高{1}。
+		'''
 }
 
 StarHelmetCalB: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		44% increased damage
-		+2 max sentry number
-		''' */
-	// DisplayName: PhantomStar Helmet B
-	/* SetBonus:
+		全伤害提高44%
+		+2 最大哨兵数量
 		'''
-		The lower the health, the higher the damage. 
-		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
-		With effect of healing and high damage increased.
-		{0}% increases the thief crit chance and {1} increased stealth value.
-		''' */
+	DisplayName: 幻星元头盔 B
+	SetBonus:
+		'''
+		生命值越低，造成的伤害越高。
+		按下保持套装奖励键时，将禁用生命恢复，
+		获得治疗效果和高额伤害加成。
+		盗贼暴击率提高{0}%，隐匿值提高{1}。
+		'''
 }
 
 StarHelmetCalA: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		40% increased damage
-		+2 max sentry number
-		''' */
-	// DisplayName: PhantomStar Helmet A
-	/* SetBonus:
+		全伤害提高40%
+		+2 最大哨兵数量
 		'''
-		The lower the health, the higher the damage. 
-		If press the StayArmor SetBonus Key ,Life regeneration will be disabled, 
-		With effect of healing and high damage increased.
-		{0}% increases the thief crit chance and {1} increased stealth value.
-		''' */
+	DisplayName: 幻星元头盔 A
+	SetBonus:
+		'''
+		生命值越低，造成的伤害越高。
+		按下保持套装奖励键时，将禁用生命恢复，
+		获得治疗效果和高额伤害加成。
+		盗贼暴击率提高{0}%，隐匿值提高{1}。
+		'''
 }
 
 StarBreastplateCalX: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		30% increased crit strike chance
-		+12 max minion number
-		immune on fire and knockback
-		''' */
-	// DisplayName: PhantomStar BreastPlate X
+		暴击率提高30%
+		+12 最大召唤物数量
+		免疫火块和击退
+		'''
+	DisplayName: 幻星元胸甲 X
 }
 
 StarBreastplateCalE: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		25% increased crit strike chance
-		+9 max minion number
-		immune on fire and knockback
-		''' */
-	// DisplayName: PhantomStar BreastPlate E
+		暴击率提高25%
+		+9 最大召唤物数量
+		免疫火块和击退
+		'''
+	DisplayName: 幻星元胸甲 E
 }
 
 StarBreastplateCalD: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		24% increased crit strike chance
-		+8 max minion number
-		immune on fire and knockback
-		''' */
-	// DisplayName: PhantomStar BreastPlate D
+		暴击率提高24%
+		+8 最大召唤物数量
+		免疫火块和击退
+		'''
+	DisplayName: 幻星元胸甲 D
 }
 
 StarBreastplateCalC: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		23% increased crit strike chance
-		+7 max minion number
-		immune on fire and knockback
-		''' */
-	// DisplayName: PhantomStar BreastPlate C
+		暴击率提高23%
+		+7 最大召唤物数量
+		免疫火块和击退
+		'''
+	DisplayName: 幻星元胸甲 C
 }
 
 StarBreastplateCalB: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		22% increased crit strike chance
-		+6 max minion number
-		immune on fire and knockback
-		''' */
-	// DisplayName: PhantomStar BreastPlate B
+		暴击率提高22%
+		+6 最大召唤物数量
+		免疫火块和击退
+		'''
+	DisplayName: 幻星元胸甲 B
 }
 
 StarBreastplateCalA: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		20% increased crit strike chance
-		+5 max minion number
-		immune on fire and knockback
-		''' */
-	// DisplayName: PhantomStar BreastPlate A
+		暴击率提高20%
+		+5 最大召唤物数量
+		免疫火块和击退
+		'''
+	DisplayName: 幻星元胸甲 A
 }

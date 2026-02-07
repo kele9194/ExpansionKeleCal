@@ -19,7 +19,7 @@ namespace ExpansionKeleCal.Content.StarySniper
         public override float ShootSpeed => 32f;
         public override int UseTime => 30;
         public override int Crit => 42;
-        public override int Rarity => ExpansionKeleCal.calamity.Find<ModRarity>("DarkBlue").Type;
+        public override int Rarity => ExpansionKeleCal.calamity.Find<ModRarity>("CosmicPurple").Type;
         // public override string ItemName => SetNameOverride;
         // public override string introduction => "该狙击步枪型号A升级版,使用火枪子弹会转化为高速子弹。";
 

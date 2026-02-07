@@ -10,10 +10,25 @@ FullMoonKunai: {
 Rogue: {
 	Basketball: {
 		DisplayName: Basketball
-		Tooltip: '''
-		Basketballs rebounds cause more damage
-		The stealth attack basketball exists for a longer time and has unlimited penetration
-		and the rebound damage is higher
-		'''
+		Tooltip:
+			'''
+			Basketballs rebounds cause more damage
+			The stealth attack basketball exists for a longer time and has unlimited penetration
+			and the rebound damage is higher
+			'''
 	}
+
+	SwordReturn: {
+		DisplayName: Sword Return
+		Tooltip:
+			'''
+			left click to shoot and right click to return 
+			stealth attack can shoot five sword
+			'''
+	}
+}
+
+SuperGearRouge: {
+	DisplayName: Super Gear Rouge
+	Tooltip: ""
 }

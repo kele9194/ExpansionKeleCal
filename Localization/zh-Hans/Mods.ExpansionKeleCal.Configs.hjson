@@ -1,17 +1,17 @@
 ExpansionKeleCalConfig: {
 	LaserAlwaysOn: {
-		// Label: Laser Always On
-		// Tooltip: If enabled, lasers of PhantomStarySniperRifle will always be displayed
+		Label: 激光常开
+		Tooltip: 如果开启，幻星元狙击步枪的镭射激光常开
 	}
 
-	// DisplayName: ExpansionKeleCal Config
+	DisplayName: ExpansionKeleCal Config
 
 	detailedTooltip: {
-		// Label: Enable Detailed Tooltips(For developers,Simplified Chinese)
-		/* Tooltip:
+		Label: 详细信息（简体中文，仅对开发者）
+		Tooltip:
 			'''
-			If enabled, shows detailed tooltips for items and accessories(just for developer to debug so only simplified Chinese)
-			make it off will not obstacle your game  
-			''' */
+			如果开启，展示物品的详细信息，仅作为开发者进行debug所有只有中文
+			关闭这个并不会影响你的游玩
+			'''
 	}
 }

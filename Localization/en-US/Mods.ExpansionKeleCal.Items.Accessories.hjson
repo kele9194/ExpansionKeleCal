@@ -9,3 +9,12 @@ SunAmulet: {
 		'''
 	DisplayName: Sun Amulet
 }
+
+StealthCapacitor: {
+	DisplayName: Stealth Capacitor
+	Tooltip:
+		'''
+		15 increased max Stealth
+		5% increased rogue crit strike chance
+		'''
+}

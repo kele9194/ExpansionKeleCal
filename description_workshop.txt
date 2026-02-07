@@ -7,26 +7,7 @@
 （不擅长美术所以贴图会重复）
 此外该模组无现有bossAI重写，因此允许在创建世界后加入。
 如果有其他任何想法或建议欢迎留言。
-最近更新
-v0.9.3
-微调
-v0.9.3.1
-微调
-v0.9.3.3
-修复依赖项属性
-v0.9.3.4
-削弱了幻星元剑系列真近战造成的额外最大生命值百分比加成的伤害
-v1.0.0.1
-重整该mod,初步完成完成中英文本地化
-v1.0.1
-新增篮球,望月苦无
-v1.0.2
-新增潜伏电容，剑归宗
-修补中文本地化的错误
-v1.0.6
-紧急修复灾厄更新导致报错的情况
-新增超级齿轮
-其他更新
+目前该模组更新进度远远落后于Kele expansion，将于近期进行同步更新
 Requires both Kele Expansion and Calamity Mod to use this mod.
 This mod is developed for entertainment purposes only, and the developer is just me, still in the process of improvement.
 This mod is a Calamity expansion version of Kele Expansion, designed for playing with Kele Expansion and Calamity mainly as post-Moon Lord item expansion.
@@ -36,23 +17,3 @@ Phantom Stary Armor series with 10 armor sets, plus one accessory (that's right,
 (Art assets are reused due to lack of artistic skills)
 In addition, this mod does not rewrite any existing boss AI, so it can be added after world creation.
 If you have any other ideas or suggestions, feel free to leave a comment.
-Recent Updates
-v0.9.3
-Minor adjustments
-v0.9.3.1
-Minor adjustments
-v0.9.3.3
-Fixed dependency properties
-v0.9.3.4
-Weakened the additional max life percentage damage bonus from true melee attacks of the Phantom Stary Sword series
-v1.0.0.1
-Restructured the mod and initially completed English and Chinese localization
-v1.0.1
-add new weapon:basketball，FullMoon Kunai
-v1.0.2
-add new weapon:Stealth capacitor,sword of return
-fix Chinese localization
-v1.0.6
-Emergency fix for errors caused by Calamity update
-Added Super Gear Rouge
-Other updates

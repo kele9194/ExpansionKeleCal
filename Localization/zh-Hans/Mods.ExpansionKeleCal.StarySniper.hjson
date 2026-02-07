@@ -1,125 +1,125 @@
 GaSniperCalX: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-F
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-X
+		幻星元狙击枪-F的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-X
 }
 
 GaSniperCalF: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-E
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-F
+		幻星元狙击枪-E的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-F
 }
 
 GaSniperCalE: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-D
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-E
+		幻星元狙击枪-D的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-E
 }
 
 GaSniperCalD: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-CIX
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-D
+		幻星元狙击枪-CIX的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-D
 }
 
 GaSniperCalCIX: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-CIII
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-CIX
+		幻星元狙击枪-CIII的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-CIX
 }
 
 GaSniperCalCIII: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-CI
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-CIII
+		幻星元狙击枪-CI的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-CIII
 }
 
 GaSniperCalCI: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-B
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-C I
+		幻星元狙击枪-B的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-CI
 }
 
 GaSniperCalB: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of PhantomStarySniperRifle-A
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-B
+		幻星元狙击枪-A的升级版
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-B
 }
 
 GaSniperCalA: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		The upgrade of StarySniperRifle-J, name override to PhantomStarySniperRifle-A
-		FocusAttack：when you not use the StarySniperRifle,focus value will increase by the time
-		focus value give extra damage and give recommendation when it go to limitation
-		can open laser to assist aiming(in the config)
-		can change bullet(musket ball) into high-velocity bullet
-		right click to shoot sharky bullet more slowly and deals more damage
-		in calamitymod ,sharky bullet can deals Marked for Death debuff
-		''' */
-	// DisplayName: PhantomStarySniperRifle-A
+		幻星元狙击枪-J的升级版，命名为幻星元狙击枪-A
+		专注攻击：当你没有使用幻星元狙击枪时，专注值会随时间增加
+		专注值提供额外伤害，并在达到上限时给出提示
+		可以开启激光辅助瞄准（在配置中设置）
+		可以将子弹（火枪子弹）转换为高速子弹
+		右键可以更慢地发射鲨鱼弹并造成更多伤害
+		在灾厄模组中，鲨鱼弹可以造成死亡标记减益
+		'''
+	DisplayName: 幻星元狙击枪-A
 }

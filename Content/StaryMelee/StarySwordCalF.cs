@@ -17,7 +17,7 @@ namespace ExpansionKeleCal.Content.StaryMelee
         public override string LocalizationCategory => "StaryMelee";
         public override int BaseDamage => 754;
         public override int UseTime => 18;
-        public override int Rarity => ExpansionKeleCal.calamity.Find<ModRarity>("Violet").Type;
+        public override int Rarity => ExpansionKeleCal.calamity.Find<ModRarity>("BurnishedAuric").Type;
         public override int Crit => 31;
         
         // 特定属性

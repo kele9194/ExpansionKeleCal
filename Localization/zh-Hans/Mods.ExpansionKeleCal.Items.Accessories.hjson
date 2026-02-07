@@ -9,3 +9,12 @@ SunAmulet: {
 		'''
 	DisplayName: Sun Amulet
 }
+
+StealthCapacitor: {
+	DisplayName: 潜伏电容
+	Tooltip:
+		'''
+		+15最大潜伏值
+		+5%盗贼暴击率
+		'''
+}

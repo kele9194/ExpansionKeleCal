@@ -10,9 +10,24 @@ FullMoonKunai: {
 Rogue: {
 	Basketball: {
 		DisplayName: 篮球
-		Tooltip: '''
-		篮球反弹造成更多伤害
-		潜伏攻击篮球存在更长时间并且无限穿透，反弹伤害更高
-		'''
+		Tooltip:
+			'''
+			篮球反弹造成更多伤害
+			潜伏攻击篮球存在更长时间并且无限穿透，反弹伤害更高
+			'''
 	}
+
+	SwordReturn: {
+		DisplayName: 剑归宗
+		Tooltip:
+			'''
+			左键发射，右键收回
+			潜伏攻击发射五个伤害更高的剑
+			'''
+	}
+}
+
+SuperGearRouge: {
+	// DisplayName: Super Gear Rouge
+	// Tooltip: ""
 }

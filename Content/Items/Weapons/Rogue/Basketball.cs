@@ -74,7 +74,7 @@ namespace ExpansionKeleCal.Content.Items.Weapons.Rogue
 
         }
 
-        public override bool ConsumeItem(Player player) => Main.rand.NextFloat() < player.Calamity().rogueAmmoCost;
+        public override bool ConsumeItem(Player player) => true;
 
         /// <summary>
         /// 注册合成配方：需要1个皮革，在工作台合成150个。

@@ -18,7 +18,7 @@ namespace ExpansionKeleCal.Content.StaryMelee
         // 基础属性
         public override int BaseDamage => 511;
         public override int UseTime => 20;
-        public override int Rarity => ExpansionKeleCal.calamity.Find<ModRarity>("DarkBlue").Type;
+        public override int Rarity => ExpansionKeleCal.calamity.Find<ModRarity>("CosmicPurple").Type;
         public override int Crit => 27;
         
         // 特定属性

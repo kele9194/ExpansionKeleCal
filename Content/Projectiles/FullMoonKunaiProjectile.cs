@@ -126,7 +126,7 @@ namespace ExpansionKeleCal.Content.Projectiles
                     position,
                     velocity,
                     ModContent.ProjectileType<FullMoonKunaiTrackingProjectile>(),
-                    (int)(Projectile.damage * 0.3f),
+                    (int)(Projectile.damage * 0.4f),
                     Projectile.knockBack * 0.3f,
                     Projectile.owner
                 );
@@ -177,6 +177,8 @@ namespace ExpansionKeleCal.Content.Projectiles
             Projectile.tileCollide = false;
             Projectile.DamageType = ExpansionKeleCal.RogueDamageClassCal;
             Projectile.extraUpdates = 1; // 增加更新频率以获得更平滑的追踪
+            Projectile.usesLocalNPCImmunity = true;
+            Projectile.localNPCHitCooldown = 15;
             
             // 初始无伤害
             Projectile.friendly = false;
@@ -204,7 +206,7 @@ namespace ExpansionKeleCal.Content.Projectiles
                 Projectile.friendly = true; // 10帧后开始造成伤害
                 // 使用ExpansionKele的追踪算法
                 // 速度6f，最大追踪距离400f，转向阻力5f
-                ExpansionKele.Content.Customs.ProjectileHelper.FindAndMoveTowardsTarget(Projectile, 6f, 400f, 5f);
+                ExpansionKele.Content.Customs.ProjectileHelper.FindAndMoveTowardsTarget(Projectile, 15f, 400f, 5f);
             }
         }
 // ... existing code ...

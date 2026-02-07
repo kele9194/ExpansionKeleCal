@@ -1,107 +1,107 @@
 StarySwordCalA: {
-	/* Tooltip:
+	Tooltip:
 		'''
-		upgrade of StarySword-J, renamed as PhantomStarySword-A
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
-	// DisplayName: PhantomStarySword-A
+		星陨剑-J的升级版，更名为幻星元剑-A
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
+	DisplayName: 幻星元剑-A
 }
 
 StarySwordCalB: {
-	// DisplayName: PhantomStarySword-B
-	/* Tooltip:
+	DisplayName: 幻星元剑-B
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-A
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-A的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }
 
 StarySwordCalCI: {
-	// DisplayName: PhantomStarySword-C I
-	/* Tooltip:
+	DisplayName: 幻星元剑-C I
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-B
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-B的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }
 
 StarySwordCalCIII: {
-	// DisplayName: PhantomStarySword-CIII
-	/* Tooltip:
+	DisplayName: 幻星元剑-CIII
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-CI
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-CI的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }
 
 StarySwordCalCIX: {
-	// DisplayName: PhantomStarySword-CIX
-	/* Tooltip:
+	DisplayName: 幻星元剑-CIX
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-CIII
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-CIII的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }
 
 StarySwordCalD: {
-	// DisplayName: PhantomStarySword-D
-	/* Tooltip:
+	DisplayName: 幻星元剑-D
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-CIX
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-CIX的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }
 
 StarySwordCalE: {
-	// DisplayName: PhantomStarySword-E
-	/* Tooltip:
+	DisplayName: 幻星元剑-E
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-D
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-D的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }
 
 StarySwordCalF: {
-	// DisplayName: PhantomStarySword-F
-	/* Tooltip:
+	DisplayName: 幻星元剑-F
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-E
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-E的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }
 
 StarySwordCalX: {
-	// DisplayName: PhantomStarySword-X
-	/* Tooltip:
+	DisplayName: 幻星元剑-X
+	Tooltip:
 		'''
-		upgrade of PhantomStarySword-F
-		the shooting projectiles deals explosion, explosion get more benefits from your enhanced damage
-		the blade give enemies armorPodwered debuff and onfire debuff
-		the blade hit enemies give them extra damage(based on target's max life) and give you many buffs
-		right click to dash(consumes extra mana,but make you invincible)
-		''' */
+		幻星元剑-F的升级版
+		发射的抛射物会产生爆炸，爆炸会从你的增强伤害中获得更多收益
+		刀刃使敌人获得装甲粉碎和着火了！减益效果
+		刀刃击中敌人会造成额外伤害（基于目标最大生命值）并给予你多种增益效果
+		右键冲刺（消耗额外法力，但使你无敌）
+		'''
 }

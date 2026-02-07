@@ -23,7 +23,7 @@ namespace ExpansionKeleCal.Content.StaryArmor
 		//public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(MaxManaIncrease, MaxMinionIncrease);
 
 		public override void SetDefaults() {
-            Item.SetNameOverride(setNameOverride);
+            // Item.SetNameOverride(setNameOverride);
 			Item.width = 18; // Width of the item
 			Item.height = 18; // Height of the item
 			Item.value = Item.sellPrice(gold: 1); // How many coins the item is worth
